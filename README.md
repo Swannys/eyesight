@@ -19,11 +19,9 @@ Eyesight is a Convolutional Neural Network (CNN) designed for advanced image rec
 ## Usage
 
 1. Clone the repository:
+       git clone https://github.com/yourusername/eyesight.git
 
-git clone https://github.com/yourusername/eyesight.git
-
-2. Run the application:
-
-python GUI.py
+3. Run the application:
+       python GUI.py
 
 3. Enjoy!
