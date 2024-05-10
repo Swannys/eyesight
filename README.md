@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Eyesight is a Convolutional Neural Network (CNN) designed for advanced image recognition tasks. It integrates custom CNN architectures with a user-centric graphical interface, providing an intuitive platform for image analysis.
+Eyesight is a Convolutional Neural Network (CNN) (Coded from *SCRATCH*) designed for advanced image recognition tasks. It integrates custom CNN architectures with a user-centric graphical interface, providing an intuitive platform for image analysis.
 
 ## Features
 
